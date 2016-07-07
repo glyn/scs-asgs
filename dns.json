@@ -1,0 +1,22 @@
+[
+  {
+    "protocol": "tcp",
+    "destination": "10.68.0.10",
+    "ports": "53"
+  },
+  {
+    "protocol": "udp",
+    "destination": "10.68.0.10",
+    "ports": "53"
+  },
+  {
+    "protocol": "tcp",
+    "destination": "10.68.0.11",
+    "ports": "53"
+  },
+  {
+    "protocol": "udp",
+    "destination": "10.68.0.11",
+    "ports": "53"
+  }
+]
