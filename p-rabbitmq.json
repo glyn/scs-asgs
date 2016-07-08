@@ -2,6 +2,6 @@
   {
     "protocol": "tcp",
     "destination": "10.68.192.0/20",
-    "ports": "5762"
+    "ports": "5672"
   }
 ]
